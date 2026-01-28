@@ -13,3 +13,9 @@ This project analyzes email and account data to:
 ##  Tools
 - SQL (BigQuery)
 - Looker Studio (for visualization)
+
+##  Visualization
+
+Dashboard preview:
+
+![Dashboard Preview](dashboard_preview.png)
